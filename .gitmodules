@@ -1,0 +1,6 @@
+[submodule "libs/JUCE"]
+	path = libs/JUCE
+	url = git@github.com:juce-framework/JUCE.git
+[submodule "libs/WDL"]
+	path = libs/WDL
+	url = git@github.com:justinfrankel/WDL.git
